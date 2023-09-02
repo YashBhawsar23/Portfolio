@@ -139,6 +139,7 @@ header {
 
 .hero--image img {
   border-radius: 50%;
+  border: 2px solid #89728f;
 }
 
 .subtitle-1 {
